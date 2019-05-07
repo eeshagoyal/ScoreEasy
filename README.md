@@ -14,10 +14,10 @@ The work is distributed in a set of jupyter notebooks.
    - Training dataset - `training_set_rel3.tsv`
    - Validation dataset - `valid_set.tsv`
    - Testing dataset - `test_set.tsv`
-2. **1.1-EDA.ipynb and 1.2-Basic-Metric-Analysis.ipynb**: Initial data analysis of the entire dataset, feature extraction and key findings from the data that would provide for specific parameters in developing the model. 
+2. **1.1-EDA.ipynb and 1.2-Basic-Metric-Analysis.ipynb**: Initial data analysis of the entire dataset and key findings from the data that would provide for specific parameters in developing the model. 
 3. **2-LDA.ipynb**: A brief experiment done to implement an unsupervised approach to assign scores based on word probabilities. 
-4. **3-Tokenisation-and-Regression.ipynb**: Classical Machine Learning techniques applied to scoring of essays. Regression techniques employed: Lasso, Ridge, Gradient Boosting with accuracy comparison
-5. **4(x)-LSTM.ipynb (x ∈ {a, b, c})**: Notebooks implementing the LSTM model to scoring essays.
+4. **3-Tokenisation-and-Regression.ipynb**: Tokenisation, feature extraction, application regression techniques (Linear, Lasso, Ridge, Gradient Boosting) and accuracy comparison.
+5. **4(a)-LSTM.ipynb, 4(b)-LSTM.ipynb and 4(c)-LSTM.ipynb**: Notebooks implementing the LSTM model to scoring essays.
 
 
 
