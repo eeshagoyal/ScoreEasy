@@ -5,6 +5,8 @@
 The project aims to build a machine learning system for automatic scoring of essays written  by  students. The  motivation for the project comes from  [Kaggle]( https://www.kaggle.com/c/asap-aes). The system takes as input as essay and outputs a score calculated with respect to six rating traits, namely Ideas and Content, Organization, Voice, Word
 Choice, Sentence Fluency and  Conventions, rated with respect to the essay set.
 
+The project is a part of a semester long course in Business Intelligence, done under the guidance of [Mr. Rishabh Kaushal](https://rishabhkaushal.github.io/about.html) and [Swati Sinha](https://www.linkedin.com/in/swati-sinha-749332117/). Involved - building a problem statement, collecting data, generating analysis and getting the final result, which culminated into a Poster Presentation competition for the entire batch.
+
 
 ## Files Description
 
