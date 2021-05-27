@@ -22,8 +22,9 @@ The work is distributed in a set of jupyter notebooks.
 
 
 ## Links
-- [Overleaf Report](https://www.overleaf.com/read/gcskmvxcfpqm)
-- [Overleaf Poster](https://www.overleaf.com/read/dmqgbcvhmrfm)
+- [Final Report](https://www.overleaf.com/read/mmvynkvhkxvn)
+- [Poster](https://www.overleaf.com/read/dmqgbcvhmrfm)
 - [Presentation](https://docs.google.com/presentation/d/1UbnmHWUEYuINp4Go8viGmXapK_t43y812SKYqFJcEBs/edit?usp=sharing)
 - [Github Link](https://github.com/eeshagoyal/ScoreEasy)
 - [Data Set](https://www.kaggle.com/c/asap-aes)
+- [Intermediate Report](https://www.overleaf.com/read/gcskmvxcfpqm)
